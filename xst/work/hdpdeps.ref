@@ -1,0 +1,52 @@
+V3 27
+FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/BufferRegister.vhd" 2023/08/02.12:06:00 P.20131013
+EN work/BufferRegister 1690962545 \
+      FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/BufferRegister.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/BufferRegister/Behavioral 1690962546 \
+      FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/BufferRegister.vhd" \
+      EN work/BufferRegister 1690962545
+FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/clock_div_model.vhd" 2023/08/01.16:26:09 P.20131013
+EN work/clock_div_model 1690962553 \
+      FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/clock_div_model.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/clock_div_model/arch_clock_div_model 1690962554 \
+      FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/clock_div_model.vhd" \
+      EN work/clock_div_model 1690962553
+FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/FSM_CU.vhd" 2023/08/01.23:30:36 P.20131013
+EN work/FSM_CU 1690912840 \
+      FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/FSM_CU.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/FSM_CU/Behavioral 1690912841 \
+      FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/FSM_CU.vhd" \
+      EN work/FSM_CU 1690912840
+FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/ipcore_dir/mbram_model.vhd" 2023/08/01.11:55:23 P.20131013
+EN work/mbram_model 1690962551 \
+      FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/ipcore_dir/mbram_model.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/mbram_model/mbram_model_a 1690962552 \
+      FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/ipcore_dir/mbram_model.vhd" \
+      EN work/mbram_model 1690962551
+FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/MUX.vhd" 2023/08/01.22:10:00 P.20131013
+EN work/MUX 1690962549 \
+      FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/MUX.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/MUX/Muxdesign 1690962550 \
+      FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/MUX.vhd" \
+      EN work/MUX 1690962549
+FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/nbit_ALU.vhd" 2023/08/01.11:01:57 P.20131013
+EN work/nbit_ALU 1690962547 \
+      FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/nbit_ALU.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/std_logic_arith 1381692177
+AR work/nbit_ALU/arch_nbit_ALU 1690962548 \
+      FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/nbit_ALU.vhd" \
+      EN work/nbit_ALU 1690962547
+FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/Top_Model_ALM.vhd" 2023/08/02.13:18:50 P.20131013
+EN work/Top_Model_ALM 1690962555 \
+      FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/Top_Model_ALM.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Top_Model_ALM/Behavioral 1690962556 \
+      FL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/Top_Model_ALM.vhd" \
+      EN work/Top_Model_ALM 1690962555 CP FSM_control_unit CP BufferRegister \
+      CP nbit_ALU CP MUX CP mbram_model CP clock_div_model

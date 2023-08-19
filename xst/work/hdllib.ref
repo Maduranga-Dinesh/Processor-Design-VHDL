@@ -1,0 +1,14 @@
+EN fsm_cu NULL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/FSM_CU.vhd" sub00/vhpl10 1690982185
+AR clock_div_model arch_clock_div_model "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/clock_div_model.vhd" sub00/vhpl07 1690962554
+AR bufferregister behavioral "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/BufferRegister.vhd" sub00/vhpl03 1690962546
+AR mux muxdesign "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/MUX.vhd" sub00/vhpl05 1690962550
+EN nbit_alu NULL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/nbit_ALU.vhd" sub00/vhpl00 1690962547
+EN clock_div_model NULL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/clock_div_model.vhd" sub00/vhpl06 1690962553
+EN bufferregister NULL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/BufferRegister.vhd" sub00/vhpl02 1690962545
+AR mbram_model mbram_model_a "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/ipcore_dir/mbram_model.vhd" sub00/vhpl13 1690962552
+AR top_model_alm behavioral "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/Top_Model_ALM.vhd" sub00/vhpl09 1690962556
+EN mux NULL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/MUX.vhd" sub00/vhpl04 1690962549
+AR nbit_alu arch_nbit_alu "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/nbit_ALU.vhd" sub00/vhpl01 1690962548
+AR fsm_cu behavioral "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/FSM_CU.vhd" sub00/vhpl11 1690912841
+EN mbram_model NULL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/ipcore_dir/mbram_model.vhd" sub00/vhpl12 1690962551
+EN top_model_alm NULL "F:/OUSL/2023/Processor Design/LAB 1_New/ALM_Design_416115457/Top_Model_ALM.vhd" sub00/vhpl08 1690962555
